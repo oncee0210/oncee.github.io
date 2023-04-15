@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "oncee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Right now, it's only once\no history.back();"
+  bio              : "Right now, it's only once\n no history.back();"
   location         : "Somewhere"
   email            :
   links:
