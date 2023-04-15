@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "oncee"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Right now, it's only once. \n no history.back();"
+  bio              : "" #Right now, it's only once. \n no history.back();
   location         : ""
   email            :
   links:
